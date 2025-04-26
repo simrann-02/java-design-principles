@@ -1,0 +1,1 @@
+This repo contains some basic concepts of java along with design patterns and low level design. 
